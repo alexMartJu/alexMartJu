@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! 👋 Soy un estudiante de DAW y apasionado programador de 25 años de España 🚀<br>Mi objetivo es aprender, crecer y destacar en el mundo del desarrollo de software. Me encanta enfrentarme a nuevos retos y resolver problemas de manera creativa, siempre buscando la mejor solución. Tengo una mentalidad proactiva, y me motiva colaborar en proyectos que me permitan mejorar mis habilidades mientras aporto valor.<br><br>Estoy listo para formar parte de equipos dinámicos y contribuir en el desarrollo de soluciones innovadoras. Si estás buscando a alguien con energía, entusiasmo y muchas ganas de aprender, ¡estoy aquí para ello!
+¡Hola! 👋 Soy un estudiante de DAW y apasionado programador de 25 años de España 🚀<br>Mi objetivo es aprender, crecer y destacar en el mundo del desarrollo web. Me encanta enfrentarme a nuevos retos y resolver problemas de manera creativa, siempre buscando la mejor solución. Tengo una mentalidad proactiva, y me motiva colaborar en proyectos que me permitan mejorar mis habilidades mientras aporto valor.<br><br>Estoy listo para formar parte de equipos dinámicos y contribuir en el desarrollo de soluciones innovadoras. Si estás buscando a alguien con energía, entusiasmo y muchas ganas de aprender, ¡estoy aquí para ello!
 
 
 # 💻 Tech Stack:
